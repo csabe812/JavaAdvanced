@@ -16,3 +16,4 @@ Implemented lines:
 | SingletonThreadSafe.java | Thread-safe singleton design pattern (using synchronized)|
 | MultiThread.java  | A simple implementation of using threads |
 | VolatileThread.java | A simple implementation of a thread using volatile keyword to prevent caching |
+| Observer.java | Observer design pattern |
