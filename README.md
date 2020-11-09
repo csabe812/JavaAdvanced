@@ -18,3 +18,4 @@ Implemented lines:
 | VolatileThread.java | A simple implementation of a thread using volatile keyword to prevent caching |
 | Observer.java | Observer design pattern |
 | ExecutorServicePool.java | Basic implementation of ExecutorService, Executors and thread pools |
+| InterfacesWithInheritance.java | Interfaces and inheritance |
